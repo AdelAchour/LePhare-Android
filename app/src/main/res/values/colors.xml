@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#56af31</color>
+    <color name="colorPrimaryDark">#3D8120</color>
+    <color name="colorAccent">#7caec9</color>
+
+    <color name="colorError">#811616</color>
+    <color name="colorSuccess">#18861D</color>
+    <color name="grey_info">#6e6e6e</color>
+    <color name="grey_status">#414141</color>
+    <color name="color_card_profile">#f1f1f1</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="text_shadow">#7F000000</color>
+
+</resources>

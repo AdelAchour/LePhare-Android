@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "795559823218",
+    "firebase_url": "https://lephareenquete.firebaseio.com",
+    "project_id": "lephareenquete",
+    "storage_bucket": "lephareenquete.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795559823218:android:d28a646ddfbf3b1099ffeb",
+        "android_client_info": {
+          "package_name": "com.production.achour_ar.phareenquete"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795559823218-ppimic15rqbj5001hcmqhms7f56d2efu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.production.achour_ar.phareenquete",
+            "certificate_hash": "d930f4e6efbe8ffc35220192dea061bdbaad21c9"
+          }
+        },
+        {
+          "client_id": "795559823218-ti64pc8sieqaogdl7necm0o1auhn7l3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBworuavwMRf9Ptb7hVF-5NodpqmlzIt9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795559823218-ti64pc8sieqaogdl7necm0o1auhn7l3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
